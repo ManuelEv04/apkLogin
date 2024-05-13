@@ -10,11 +10,19 @@
     "test": "jest"
   },
   "dependencies": {
+    "expo": "^51.0.2",
     "react": "18.2.0",
     "react-native": "0.74.1"
   },
   "devDependencies": {
+    "@testing-library/jest-dom":"^5.17.0",
+    "@testing-library/react":"^13.4.0",
+    "@testing-library/user-event":"^13.5.0",
+    "react":"^17.0.2",
+    "react-scripts":"^5.0.1",
+    "web-vitals":"^2.1.4",
     "@babel/core": "^7.20.0",
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@babel/preset-env": "^7.20.0",
     "@babel/runtime": "^7.20.0",
     "@react-native/babel-preset": "0.74.83",

@@ -76,14 +76,14 @@ function App(): React.JSX.Element {
           style={{
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
-          <Section title="Step One">
+          <Section title="paso 1">
             Edit <Text style={styles.highlight}>App.tsx</Text> to change this
             screen and then come back to see your edits.
           </Section>
-          <Section title="See Your Changes">
+          <Section title="amarte">
             <ReloadInstructions />
           </Section>
-          <Section title="Debug">
+          <Section title="Manuel Burbano">
             <DebugInstructions />
           </Section>
           <Section title="Learn More">
